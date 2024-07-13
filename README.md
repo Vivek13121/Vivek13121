@@ -9,8 +9,8 @@
 - Featured Projects
 
 - [Snake Game](https://github.com/Vivek13121/My-Projects/tree/67c04c564048ba8868ff934486228c479d1bef61/Snake_Game): A classic game implemented in Python.
-- [Pong Game](https://github.com/Vivek13121/pong-game): Another fun game created using Python and Turtle graphics.
-- [Pomodoro Timer](https://github.com/Vivek13121/pomodoro-timer): A productivity tool built with Python and Tkinter.
+- [Pong Game](https://github.com/Vivek13121/My-Projects/tree/67c04c564048ba8868ff934486228c479d1bef61/Pong_Game): Another fun game created using Python and Turtle graphics.
+- [Pomodoro Timer](https://github.com/Vivek13121/My-Projects/tree/67c04c564048ba8868ff934486228c479d1bef61/Pomodoro_GUI): A productivity tool built with Python and Tkinter.
 
 
 
