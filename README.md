@@ -1,4 +1,4 @@
-#👋 Hi, I’m @Vivek
+<span style="font-size:large;">👋 Hi, I’m @Vivek</span>
 
 - 👀 I’m interested in web development, Python programming, and exploring new technologies.
 - 🌱 I’m currently learning Python and using various modules like pandas, tkinter, and requests.
