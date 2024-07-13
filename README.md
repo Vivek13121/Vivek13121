@@ -6,6 +6,13 @@
 - 📫 How to reach me: E-mail: vivek131215@gmail.com
 - 😄 Pronouns: He/Him
 
+- Featured Projects
+
+- [Snake Game](https://github.com/Vivek13121/snake-game): A classic game implemented in Python.
+- [Pong Game](https://github.com/Vivek13121/pong-game): Another fun game created using Python and Turtle graphics.
+- [Pomodoro Timer](https://github.com/Vivek13121/pomodoro-timer): A productivity tool built with Python and Tkinter.
+
+
 
 <!---
 Vivek13121/Vivek13121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
