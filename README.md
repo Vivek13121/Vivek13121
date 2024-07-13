@@ -1,4 +1,4 @@
-<span style="font-size:larger;">👋 Hi, I’m @Vivek</span><br>
+<span style="font-size:larger;">👋 Hi, I’m @Vivek</span><hr>
 
 - 👀 I’m interested in web development, Python programming, and exploring new technologies.
 - 🌱 I’m currently learning Python and using various modules like pandas, tkinter, and requests.
@@ -6,7 +6,7 @@
 - 📫 How to reach me: E-mail: vivek131215@gmail.com
 - 😄 Pronouns: He/Him
 
-<span style="font-size:larger;">Featured Projects</span><br>
+<span style="font-size:larger;">Featured Projects</span><hr>
 
 - [Snake Game](https://github.com/Vivek13121/My-Projects/tree/67c04c564048ba8868ff934486228c479d1bef61/Snake_Game): A classic game implemented in Python.
 - [Pong Game](https://github.com/Vivek13121/My-Projects/tree/67c04c564048ba8868ff934486228c479d1bef61/Pong_Game): Another fun game that can be played by 2 players on same device created using Python and Turtle graphics.
