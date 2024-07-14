@@ -9,8 +9,10 @@
 <span style="font-size:larger;">Featured Projects</span><hr>
 
 - [Snake Game](https://github.com/Vivek13121/My-Projects/tree/67c04c564048ba8868ff934486228c479d1bef61/Snake_Game): A classic game implemented in Python.
-- [Pong Game](https://github.com/Vivek13121/My-Projects/tree/67c04c564048ba8868ff934486228c479d1bef61/Pong_Game): Another fun game that can be played by 2 players on same device created using Python and Turtle graphics.
+- [Pong Game](https://github.com/Vivek13121/My-Projects/tree/67c04c564048ba8868ff934486228c479d1bef61/Pong_Game): Another fun game that can be played by 2 players on the same device created using Python and Turtle graphics.
 - [Pomodoro Timer](https://github.com/Vivek13121/My-Projects/tree/67c04c564048ba8868ff934486228c479d1bef61/Pomodoro_GUI): A productivity tool built with Python and Tkinter.
+- [Flashcard Project](https://github.com/Vivek13121/My-Projects/tree/main/Flashcard): An interactive Python application that helps users learn French vocabulary using flashcards. The app displays a French word and flips to show the English translation after a few seconds, allowing users to mark words they know and track their learning progress.
+
 
 
 <!---
