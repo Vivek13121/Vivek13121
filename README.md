@@ -25,3 +25,6 @@ An interactive Python application that helps users learn French vocabulary using
 
 ### [Rain Alert Project](https://github.com/Vivek13121/My-Projects/tree/081b9be0312f9b3b169e8bc6713bf8a55b2d7f46/Automated_Rain_Alert)
 An automated system that checks the weather forecast and sends an email alert if rain is expected. The script runs daily at 8 AM using Python Anywhere to keep you updated on weather conditions.
+
+### [Nike Landing Page](https://vivek13121.github.io/Nike-website/)
+A creative landing page for Nike built using HTML, CSS, and Tailwind CSS. This project showcases responsive design and modern web development practices to create an attractive and functional webpage.
