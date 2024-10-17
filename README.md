@@ -1,3 +1,5 @@
+![Header](./header.gif)
+
 # 👋 Hi, I’m @Vivek
 ## 👨‍💻 My Website (Portfolio): [vivek13121.github.io/Portfolio/](https://vivek13121.github.io/Portfolio/)
 ---
