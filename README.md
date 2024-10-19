@@ -1,5 +1,7 @@
 ![Header](./header.gif)
 
+[![An image of @vivek13121's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivek13121)](https://holopin.io/@vivek13121)
+
 # Hi, I’m @Vivek
 ## 👨‍💻 My Website (Portfolio): [vivek13121.github.io/Portfolio/](https://vivek13121.github.io/Portfolio/)
 ---
