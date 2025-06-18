@@ -1,34 +1,51 @@
 ![Header](./header.gif)
 
-[![An image of @vivek13121's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivek13121)](https://holopin.io/@vivek13121)
+[![Holopin Badges](https://holopin.me/vivek13121)](https://holopin.io/@vivek13121)
 
-# Hi, I’m @Vivek
-## 👨‍💻 My Website (Portfolio): [vivek13121.github.io/Portfolio/](https://vivek13121.github.io/Portfolio/)
+# 👋 Hey there! I'm Vivek
+
+🎓 Second-year B.Tech CSE student at PEC Chandigarh  
+💻 Full-stack Web Developer | GenAI Enthusiast | 3x Hackathon Finalist  
+🌐 Portfolio: [vivek13121.github.io/Portfolio](https://vivek13121.github.io/Portfolio/)
+
 ---
 
-- 👀 I’m interested in web development, Python programming, and exploring new technologies.
-- 🌱 I’m currently learning Python and using various modules like pandas, tkinter, and requests.
-- 💞️ I’m looking to collaborate on Python projects, web development projects.
-- 📫 How to reach me: E-mail: vivek131215@gmail.com
-- 😄 Pronouns: He/Him
+### 🚀 About Me
+- 🎓 Second-year B.Tech CSE student at PEC Chandigarh  
+- 🔭 Currently diving deep into Generative AI, LangChain, and Vector Databases  
+- 🤖 Built end-to-end AI-powered tools using Gemini API, Hugging Face, and Streamlit  
+- 🌐 Skilled in full-stack web development using React, Tailwind CSS, and modern JS frameworks  
+- 🌱 Actively learning about LLMs, prompt engineering, and scalable architectures  
+- 🛠️ Passionate about building real-world, impactful solutions that blend AI and web technologies  
+- 📫 Reach me at **vivek131215@gmail.com**
 
-## Featured Projects
 ---
 
-### [Snake Game](https://github.com/Vivek13121/My-Projects/tree/67c04c564048ba8868ff934486228c479d1bef61/Snake_Game)
-A classic game implemented in Python.
+### 🧠 Featured Projects
 
-### [Pong Game](https://github.com/Vivek13121/My-Projects/tree/67c04c564048ba8868ff934486228c479d1bef61/Pong_Game)
-Another fun game that can be played by 2 players on the same device created using Python and Turtle graphics.
+#### 💬 [Ask My PDF](https://github.com/Vivek13121/Ask-My-PDF)
+An AI assistant that answers questions based on uploaded PDFs using Gemini 2.0 Flash and FAISS-powered context retrieval.
 
-### [Pomodoro Timer](https://github.com/Vivek13121/My-Projects/tree/67c04c564048ba8868ff934486228c479d1bef61/Pomodoro_GUI)
-A productivity tool built with Python and Tkinter.
+#### 🌐 [MannMitra – Mental Health Platform](https://github.com/Vivek13121/MannMitra)
+Hackathon-finalist project that integrates emotion-based adaptive therapy using LLMs to provide mental health support and therapist dashboards.
 
-### [Flashcard Project](https://github.com/Vivek13121/My-Projects/tree/081b9be0312f9b3b169e8bc6713bf8a55b2d7f46/Flashcard)
-An interactive Python application that helps users learn French vocabulary using flashcards. The app displays a French word and flips to show the English translation after a few seconds, allowing users to mark words they know and track their learning progress.
+#### 🧩 [Chrome Article Summarizer](https://github.com/Vivek13121/AI_Summariser)
+A Chrome extension to summarize any blog/article using Gemini API and deliver clean takeaways instantly.
 
-### [Rain Alert Project](https://github.com/Vivek13121/My-Projects/tree/081b9be0312f9b3b169e8bc6713bf8a55b2d7f46/Automated_Rain_Alert)
-An automated system that checks the weather forecast and sends an email alert if rain is expected. The script runs daily at 8 AM using Python Anywhere to keep you updated on weather conditions.
+---
 
-### [Nike Landing Page](https://vivek13121.github.io/Nike-website/)
-A creative landing page for Nike built using HTML, CSS, and Tailwind CSS. This project showcases responsive design and modern web development practices to create an attractive and functional webpage.
+### 🛠️ Tech Stack
+`Python` | `JavaScript` | `React` | `TailwindCSS` | `Express.js`  
+`LangChain` | `OpenAI API` | `Gemini API` | `ChromaDB` | `Hugging Face`  
+`Git & GitHub` | `VS Code` | `Docker` | `Node.js`| `MongoDB` 
+
+---
+
+### 🏆 Highlights
+- 🥇 Hacktoberfest Contributor | Multiple Hackathon Finalist
+- 📄 Built multiple AI, productivity, and web-based projects
+- 🔍 Always exploring what's next in AI & Web3
+
+---
+
+Thanks for visiting! 🙌 Let's connect and build something amazing.
