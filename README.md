@@ -12,19 +12,22 @@
 
 ### 🚀 About Me
 - 🎓 Second-year B.Tech CSE student at PEC Chandigarh  
-- 🔭 Currently diving deep into Generative AI, LangChain, and Vector Databases  
-- 🤖 Built end-to-end AI-powered tools using Gemini API, Hugging Face, and Streamlit  
-- 🌐 Skilled in full-stack web development using React, Tailwind CSS, and modern JS frameworks  
-- 🌱 Actively learning about LLMs, prompt engineering, and scalable architectures  
-- 🛠️ Passionate about building real-world, impactful solutions that blend AI and web technologies  
+- 🧠 Working extensively on **Agentic AI systems** using **LangGraph**, LangChain, and RAG architectures  
+- 🔬 Building end-to-end **production-oriented GenAI applications** with Gemini API, Hugging Face, FAISS/Chroma databases.
+- 🌐 Strong full-stack experience with **React, Tailwind CSS, modern JavaScript**, and backend integrations  
+- 🧩 Actively contributing to **open-source projects** and writing clean, reusable, and well-tested code  
+- ⚙️ Exploring **LLM orchestration, tool calling, memory, and scalable AI system design**  
+- 🚀 Driven to build real-world products that combine **AI reasoning, agents, and web technologies**  
 - 📫 Reach me at **vivek131215@gmail.com**
+
 
 ---
 
 ### 🧠 Featured Projects
 
-#### 💬 [Ask My PDF](https://github.com/Vivek13121/Ask-My-PDF)
-An AI assistant that answers questions based on uploaded PDFs using Gemini 2.0 Flash and FAISS-powered context retrieval.
+#### 💬 [TripWeave](https://github.com/Vivek13121/TripWeave)
+An AI-powered travel planning assistant built using **LangGraph**, designed to create end-to-end personalized travel itineraries. It uses agent-based workflows for destination research, budget planning, hotel and flight discovery, and itinerary generation, enabling structured, multi-step reasoning for real-world travel planning.
+
 
 #### 🌐 [MannMitra – Mental Health Platform](https://github.com/Vivek13121/MannMitra)
 Hackathon-finalist project that integrates emotion-based adaptive therapy using LLMs to provide mental health support and therapist dashboards.
@@ -36,8 +39,8 @@ A Chrome extension to summarize any blog/article using Gemini API and deliver cl
 
 ### 🛠️ Tech Stack
 `Python` | `JavaScript` | `React` | `TailwindCSS` | `Express.js`  
-`LangChain` | `OpenAI API` | `Gemini API` | `ChromaDB` | `Hugging Face`  
-`Git & GitHub` | `VS Code` | `Docker` | `Node.js`| `MongoDB` 
+`LangChain` | `NextJS` | `Gemini API` | `LangGraph` | `Hugging Face`  
+`n8n` | `VS Code` | `Docker` | `Node.js`| `MongoDB` 
 
 ---
 
@@ -49,3 +52,4 @@ A Chrome extension to summarize any blog/article using Gemini API and deliver cl
 ---
 
 Thanks for visiting! 🙌 Let's connect and build something amazing.
+
