@@ -6,7 +6,6 @@
 
 🎓 Second-year B.Tech CSE student at PEC Chandigarh  
 💻 Full-stack Web Developer | GenAI Enthusiast | 3x Hackathon Finalist  
-🌐 Portfolio: [vivek13121.github.io/Portfolio](https://vivek13121.github.io/Portfolio/)
 
 ---
 
@@ -52,4 +51,5 @@ A Chrome extension to summarize any blog/article using Gemini API and deliver cl
 ---
 
 Thanks for visiting! 🙌 Let's connect and build something amazing.
+
 
