@@ -4,7 +4,7 @@
 
 # 👋 Hey there! I'm Vivek
 
-🎓 Second-year B.Tech CSE student at PEC Chandigarh  
+🎓 Third-year B.Tech CSE student at PEC Chandigarh  
 💻 Full-stack Web Developer | GenAI Enthusiast | 3x Hackathon Finalist  
 
 ---
